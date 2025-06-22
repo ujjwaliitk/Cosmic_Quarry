@@ -12,5 +12,6 @@ Welcome the official repository of Cosmic Quarry.
 5. Stage and Commit your changes
    <code>git add .</code>
    <code>git commit -m "Added Submission for topic/Assignment-x by your_name" </code>
-6. git push origin your-branch-name
-7. Open a pull request from your branch to the main repository.
+6. Push your branch to your github repo
+   <code>git push origin your-branch-name</code>
+8. Open a pull request from your branch to the main repository.
