@@ -1,6 +1,6 @@
 # Cosmic_Quarry
 
-Welcome the official repository of Cosmic Quarry.
+Welcome to the official repository of Cosmic Quarry.
 
 ### To add your submissions please follow the following steps:-
 1. Fork this repository to your own GitHub account.
